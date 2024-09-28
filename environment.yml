@@ -12,5 +12,4 @@ dependencies:
   - dlib=19.24.0
   - pip:
       - opencv-python-headless==4.7.0.72
-      - numpy==1.21.0
-
+      - numpy==1.23.5  # Updated numpy version for compatibility
